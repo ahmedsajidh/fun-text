@@ -6,4 +6,4 @@ require '../vendor/autoload.php';
 
 $str = new Funtext();
 
-echo $str->Firstcapital("hi i am haleem");
+echo $str->Slugify("hi i am haleem");
