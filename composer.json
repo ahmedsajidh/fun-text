@@ -1,0 +1,17 @@
+{
+  "name": "sajidh/fun-text",
+  "description": "Text for fun",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ahmed sajidh",
+      "email": "ahmedsajidh@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Sajidh\\Funtext\\" : "src/"
+    }
+  }
+}
