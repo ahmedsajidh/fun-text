@@ -2,7 +2,7 @@
 
 namespace Sajidh\Dhivehidate;
 
-interface Imonthday
+interface Imagic
 {
 
 }

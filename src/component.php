@@ -2,7 +2,8 @@
 
 namespace Sajidh\Funtext;
 
-class Component implements Imagic {
+
+class Component {
 
 
 }
